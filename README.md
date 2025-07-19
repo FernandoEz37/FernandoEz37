@@ -10,5 +10,5 @@ I'm focused on specializing in Red Team operations, with a strong foundation in 
 - Ethical Hacking, Digital Forensics, System Hardening, Pentesting
 - Offensive & Defensive Security  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/fernando-espinoza-arias-3a590433b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/fernando-espinoza-arias)
 [![Email](https://img.shields.io/badge/Email-white?logo=gmail&style=flat)](mailto:fernandoezarias@gmail.com)
