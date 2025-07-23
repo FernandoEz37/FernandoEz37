@@ -40,7 +40,7 @@ Outside of hacking and tech, I’m into **music**, **video games**🕹️ and **
 
 ## 🔍  GitHub Stats
 
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoEz37&show_icons=true&theme=tokyonight)
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoEz37&show_icons=true&theme=dark)
 
 ---
 
