@@ -21,7 +21,7 @@ Outside of hacking and tech, I’m into **music**, **video games**🕹️ and **
 
 ---
 
-##🛠️ Tools
+## 🛠️ Tools
 
 ![Nmap](https://img.shields.io/badge/Nmap-00599C?style=flat&logo=gnubash&logoColor=white)
 ![WPScan](https://img.shields.io/badge/WPScan-CC0000?style=flat&logo=wordpress&logoColor=white)
@@ -38,7 +38,7 @@ Outside of hacking and tech, I’m into **music**, **video games**🕹️ and **
 - Ethical Hacking, Digital Forensics, System Hardening, Pentesting
 - Offensive & Defensive Security
 
-##🔍  GitHub Stats
+## 🔍  GitHub Stats
 
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoEz37&show_icons=true&theme=tokyonight)
 
