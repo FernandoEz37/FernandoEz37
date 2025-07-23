@@ -4,7 +4,9 @@
 I'm focused on specializing in Red Team operations, with a strong foundation in ethical hacking, vulnerability assessment, reconnaissance, exploitation, and post-exploitation. Motivated by continuous learning and high-level environments where I can expand my skills through attack and defense simulations.
 </h3>
 
----
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/fernando-espinoza-arias)
+[![Email](https://img.shields.io/badge/Email-white?logo=gmail&style=flat)](mailto:fernandoezarias@gmail.com)
 
 ## 👨‍💻 About Me
 
@@ -34,7 +36,7 @@ Outside of hacking and tech, I’m into **music**, **video games**🕹️ and **
 
 ---
 
-### 📈 Experience Gained
+## 📈 Experience Gained
 - Ethical Hacking, Digital Forensics, System Hardening, Pentesting
 - Offensive & Defensive Security
 
@@ -42,7 +44,3 @@ Outside of hacking and tech, I’m into **music**, **video games**🕹️ and **
 
 ![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoEz37&show_icons=true&theme=dark)
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/fernando-espinoza-arias)
-[![Email](https://img.shields.io/badge/Email-white?logo=gmail&style=flat)](mailto:fernandoezarias@gmail.com)
